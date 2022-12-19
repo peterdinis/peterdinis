@@ -1,4 +1,4 @@
-`<h1 align="center">`Hi 👋, I'm Peter Dinis. I am 21 years old and I was born in Bardejov(Slovakia)`</h1>`
+Hi 👋, I'm Peter Dinis. I am 21 years old and I was born in Bardejov(Slovakia)
 
 <h2>My favorite things are: coding💻, football⚽ and voleyball🏐</h2>
 
