@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Peter Dinis. I am 23 years old fullstack developer🖥️ and I was born in Bardejov(Slovakia).</h1>
+<h1 align="center">Hi 👋.I'm Peter Dinis. I am 23 years old fullstack developer🖥️ and I was born in Bardejov(Slovakia).</h1>
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
