@@ -1,9 +1,7 @@
 <h1 align="center">
-  Hi there 👋 I'm Peter Dinis<br>
-  <strong>Full-Stack Developer | Bardejov, Slovakia</strong><br>
-  <span style="font-weight: normal; font-size: 0.9em;">
-    24-year-old passionate developer crafting digital solutions from front-end to back-end
-  </span>
+  👨‍💻 Peter Dinis<br/>
+  <strong>Full-Stack Developer</strong><br/>
+  <sub>📍 Bardejov, Slovakia • 🎂 24 • 🎯 Crafting digital experiences</sub>
 </h1>
 
 <h2 align="left">Connect with me:</h2>
