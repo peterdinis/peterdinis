@@ -1,7 +1,7 @@
 <h1 align="center">
   👨‍💻 Peter Dinis<br/>
   <strong>Full-Stack Developer</strong><br/>
-  <sub>📍 Bardejov, Slovakia • 🎂 24 • 🎯 Crafting digital experiences</sub>
+  <sub>📍 Bardejov, Slovakia • 🎂 25 • 🎯 Crafting digital experiences</sub>
 </h1>
 
 <h2 align="left">Connect with me:</h2>
