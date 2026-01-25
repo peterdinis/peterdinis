@@ -12,7 +12,7 @@
 </p>
 
 <h2 align="left">My portfolio</h2>
-<h2 align="text"><a href="https://portfolio-peter-dinis.vercel.app/">Link💻</a></h2>
+<h2 align="text"><a href="https://dinis-portfolio.vercel.app/">Link💻</a></h2>
 
 
 <h2 align="left">Languages and Tools:</h2>
